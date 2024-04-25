@@ -1,0 +1,14 @@
+<cities>
+    <city>
+        <name>msk</name>
+        <id>1758102</id>
+        <telephoneCode>876</telephoneCode>
+        <standardOfLiving>HIGH</standardOfLiving>
+        <carcode>777</carcode>
+        <population>15000000</population>
+        <area>777.0</area>
+        <metersAboveSeaLevel>4567.0</metersAboveSeaLevel>
+        <age>78</age>
+        <creationDate>Fri Mar 22 20:06:12 MSK 2024</creationDate>
+    </city>
+</cities>
